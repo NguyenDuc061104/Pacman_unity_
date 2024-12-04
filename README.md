@@ -20,7 +20,7 @@ Pacman is a timeless arcade game where players navigate mazes, collect pellets, 
 ---
 
 ## Technical Details 🔧
-- **Game Engine:** Unity (Version XX.X.X).  
+- **Game Engine:** Unity.  
 - **Programming Language:** C#.  
 - **AI Development:** Ghosts use state machines (Chase, Scatter, Frightened).  
 - **Audio Integration:** Classic Pacman sounds and modern enhancements.  
@@ -32,7 +32,7 @@ Pacman is a timeless arcade game where players navigate mazes, collect pellets, 
 - **Game Development:** Unity.  
 - **Programming Language:** C#.  
 - **Version Control:** Git and GitHub.  
-- **Tools Used:** Visual Studio, Unity Editor, Photoshop (for assets).  
+- **Tools Used:** Visual Studio, Unity Editor.  
 
 ---
 
