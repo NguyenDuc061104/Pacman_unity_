@@ -1,43 +1,42 @@
-# Pacman Unity Game
+# Pacman Game 🟡
 
-## Overview
-This is a Pacman game developed using Unity and coded in C#. The project recreates the classic Pacman experience with added features and modern gameplay mechanics. It showcases the developers' skills in Unity game development and C# programming.
+A modern recreation of the classic **Pacman** game, developed using Unity and C#. This project delivers the essence of the original arcade game with exciting new features and polished gameplay.
 
-## Gameplay Features
-- **Classic Gameplay:** Navigate the maze, eat pellets, and avoid ghosts.
-- **Power-Ups:** Special pellets grant temporary invincibility.
-- **Dynamic Ghost AI:** Challenging and adaptive ghost movements.
-- **Custom Levels:** Multiple levels with increasing difficulty.
-- **Score System:** Track and display player scores in real-time.
-- **Pause and Resume:** Pause functionality for better gameplay control.
-- **Responsive Controls:** Smooth and intuitive character movement.
+---
 
-## Technical Details
-- **Programming Language:** C#
-- **Game Engine:** Unity 2021.3
-- **Physics:** Unity's built-in 2D physics system for smooth character movement and collisions.
-- **Animation:** Unity Animator for character and ghost animations.
+## Overview 🌟
+Pacman is a timeless arcade game where players navigate mazes, collect pellets, avoid ghosts, and aim for high scores. Our version stays true to the classic gameplay while introducing modern enhancements for a fresh experience.
 
-## Tech Stack
-- **Unity Engine:** Game development
-- **C#:** Game scripting and logic implementation
-- **Git:** Version control
-- **Unity Animator:** For animations
+---
 
-## Contributors
-- **Nguyễn An Đức:**
-  - Gameplay mechanics and ghost AI
-  - Power-up system implementation
-  - Game physics and interactions
-- **Ngô Hoàng Phương Khanh:**
-  - UI/UX design
-  - Level creation and design
+## Gameplay Features 🎮
+- **Maze Exploration:** Navigate through intricate mazes while collecting pellets.  
+- **Ghost AI:** Four unique ghosts with advanced behaviors to challenge players.  
+- **Power-Ups:** Eat special pellets to gain temporary invincibility and hunt ghosts.  
+- **Score System:** Rack up points and aim for the leaderboard.  
+- **Progressive Levels:** Increasing difficulty with more complex mazes and faster ghosts.  
+- **Customizable Settings:** Adjust difficulty, sounds, and controls in the settings menu.
 
-## Requirements
-- Unity 2021.3
-- A system with at least 8GB of RAM and a dedicated GPU is recommended.
+---
 
-## How to Run
+## Technical Details 🔧
+- **Game Engine:** Unity (Version XX.X.X).  
+- **Programming Language:** C#.  
+- **AI Development:** Ghosts use state machines (Chase, Scatter, Frightened).  
+- **Audio Integration:** Classic Pacman sounds and modern enhancements.  
+- **UI Features:** Fully designed menus for start, settings, and game over screens.  
+
+---
+
+## Tech Stack 💻
+- **Game Development:** Unity.  
+- **Programming Language:** C#.  
+- **Version Control:** Git and GitHub.  
+- **Tools Used:** Visual Studio, Unity Editor, Photoshop (for assets).  
+
+---
+
+## How to Get the Project 🎲
 1. Clone this repository:
    ```bash
    git clone https://github.com/NguyenDuc061104/Pacman_unity_.git
