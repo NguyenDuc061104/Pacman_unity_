@@ -1,57 +1,60 @@
-# Pacman Game 🟡
+# Pacman Unity Game
 
-A classic Pacman game recreated using Unity and C#. This project brings back the nostalgic arcade game with a modern touch, allowing players to navigate mazes, collect pellets, and evade ghosts. 
+## Overview
+This is a Pacman game developed using Unity and coded in C#. The project recreates the classic Pacman experience with added features and modern gameplay mechanics. It showcases the developers' skills in Unity game development and C# programming.
 
----
+## Gameplay Features
+- **Classic Gameplay:** Navigate the maze, eat pellets, and avoid ghosts.
+- **Power-Ups:** Special pellets grant temporary invincibility.
+- **Dynamic Ghost AI:** Challenging and adaptive ghost movements.
+- **Custom Levels:** Multiple levels with increasing difficulty.
+- **Score System:** Track and display player scores in real-time.
+- **Pause and Resume:** Pause functionality for better gameplay control.
+- **Responsive Controls:** Smooth and intuitive character movement.
 
-## Overview 🌟
-Pacman is a single-player arcade-style game where you control Pacman, navigating through mazes, eating pellets, and avoiding ghosts. The game features familiar mechanics from the classic version, along with new elements to enhance the gameplay experience.
-
----
-
-## Gameplay Features 🎮
-- **Classic Maze Navigation:** Navigate Pacman through a maze filled with pellets and power-ups.
-- **Ghost AI:** Ghosts actively chase Pacman using AI behaviors.
-- **Power-Ups:** Eat special pellets to turn the tide and hunt ghosts temporarily.
-- **Level Progression:** Progress through increasingly challenging levels.
-- **Score Tracking:** Earn points by eating pellets and defeating ghosts.
-- **Customizable Settings:** Modify game difficulty and visuals for a tailored experience.
-
----
-
-## Technical Details 🔧
-- **Game Engine:** Unity
+## Technical Details
 - **Programming Language:** C#
-- **AI Mechanics:** Implemented ghost AI with unique behaviors (Chase, Scatter, and Frightened modes).
-- **Audio Integration:** Classic sound effects and background music for an immersive experience.
-- **User Interface:** Menu system, score display, and level indicators.
+- **Game Engine:** Unity 2021.3
+- **Physics:** Unity's built-in 2D physics system for smooth character movement and collisions.
+- **Animation:** Unity Animator for character and ghost animations.
 
----
+## Tech Stack
+- **Unity Engine:** Game development
+- **C#:** Game scripting and logic implementation
+- **Git:** Version control
+- **Unity Animator:** For animations
 
-## Tech Stack 💻
-- **Game Development:** [Unity](https://unity.com/)
-- **Programming Language:** C#
-- **Version Control:** [GitHub](https://github.com/)
-- **Tools:** Visual Studio, Unity Editor
+## Contributors
+- **Nguyễn An Đức:**
+  - Gameplay mechanics and ghost AI
+  - Power-up system implementation
+  - Game physics and interactions
+- **Ngô Hoàng Phương Khanh:**
+  - UI/UX design
+  - Level creation and design
 
----
+## Requirements
+- Unity 2021.3
+- A system with at least 8GB of RAM and a dedicated GPU is recommended.
 
-## How to Get the Project 🎲
-
-1. **Clone the Repository:**
+## How to Run
+1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pacman-game.git
-  Open the Project in Unity:
-Ensure you have Unity (Version XX.X.X) installed on your machine.
-Open Unity Hub and select the project folder.
-Run the Game:
-Open the MainScene in Unity Editor.
-Click the Play button to start the game.
-Contributors 🧑‍💻
-Nguyễn An Đức - Developer, Game Mechanic Implementation
-Ngô Hoàng Phương Khanh - Developer, UI/UX Design and Ghost AI
-We collaborated to recreate this classic game and add modern enhancements.
-Contact 📬
-Nguyễn An Đức: Email | GitHub
-Ngô Hoàng Phương Khanh: Email | GitHub
-Enjoy playing Pacman! 🟡👻
+   git clone https://github.com/NguyenDuc061104/Pacman_unity_.git
+   ```
+2. Open the project in Unity Hub.
+3. Press the `Play` button in Unity Editor to start the game.
+
+## Controls
+- **Arrow Keys/WASD:** Move Pacman
+
+- **Esc:** Quit game
+
+## Credits
+- Game design and mechanics: Nguyễn An Đức
+- UI/Level design: Ngô Hoàng Phương Khanh
+
+## Contact
+For any questions or contributions, please contact:
+- Nguyễn An Đức: 22520268@gm.uit.edu.vn
+- Ngô Hoàng Phương Khanh: 22520639@gm.uit.edu.vn
