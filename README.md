@@ -44,14 +44,8 @@ Pacman is a timeless arcade game where players navigate mazes, collect pellets, 
 2. Open the project in Unity Hub.
 3. Press the `Play` button in Unity Editor to start the game.
 
-## Controls
-- **Arrow Keys/WASD:** Move Pacman
+---
 
-- **Esc:** Quit game
-
-## Credits
-- Game design and mechanics: Nguyễn An Đức
-- UI/Level design: Ngô Hoàng Phương Khanh
 
 ## Contact
 For any questions or contributions, please contact:
